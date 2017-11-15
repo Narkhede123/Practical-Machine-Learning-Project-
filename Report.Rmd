@@ -1,10 +1,7 @@
 ---
 title: Practical Machine Learning Project Report
 
-output:
-  html_document:
-    fig_height: 9
-    fig_width: 9
+
 ---
 
 ## Introduction  
